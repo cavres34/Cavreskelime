@@ -6,4 +6,4 @@ load_dotenv()
 
 BOT_TOKEN = getenv('BOT_TOKEN')
 MONGO_URI = getenv('MONGO_URI')
-SUDO_USERS = 5784013817
+SUDO_USERS = 6683031701
